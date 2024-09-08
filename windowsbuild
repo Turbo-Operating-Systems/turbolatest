@@ -1,0 +1,5 @@
+-- Load this version in Windows -- 
+
+sudo apt install linuxbuild.dmglinux
+sudo apt ref github wine ref -https://github.com/Turbo-Operating-Systems/turbolatest/blob/main/linuxbuild-
+sudo web ref default
